@@ -1,0 +1,25 @@
+# API Fuzzer 依赖包
+
+# 通义千问API
+dashscope>=1.14.0
+qwen_agent>=0.0.5
+
+# HTTP请求库
+requests>=2.31.0
+
+# URL解析
+urllib3>=2.0.0
+
+# JSON处理（Python内置，无需安装）
+# json
+
+# 日志处理（Python内置，无需安装）
+# logging
+
+# 时间处理（Python内置，无需安装）
+# time
+# datetime
+
+# 路径处理（Python内置，无需安装）
+# pathlib
+# os
